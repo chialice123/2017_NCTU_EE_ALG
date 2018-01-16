@@ -1,0 +1,1 @@
+g++ 0410137_pa1.cpp -o bezier -O3
